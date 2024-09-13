@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **data science**
 
-- 👨‍💻 All of my projects are available at [piyushrai.engineer](http://piyushrai.engineer/)
+- 👨‍💻 All of my projects are available at [piyushrai.engineer](https://piyush-xi.vercel.app/)
 
 - 💬 Ask me about **#data, #python, #programming, #datastructures, and #machinelearning**
 
